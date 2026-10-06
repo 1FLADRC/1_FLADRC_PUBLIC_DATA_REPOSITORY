@@ -3,8 +3,21 @@ Home for the 1FLADRC Data Repository
 
 This research was supported by the National Institute on Aging (NIA) through the 1Florida Alzheimer’s Disease Research Center (P30AG066506).
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
-!--
+
+
+
+
+
+
+
+
+
+
+
+
+```text
  Copyright 2026 1FLADRC.org
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,4 +31,4 @@ This research was supported by the National Institute on Aging (NIA) through the
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
--->
+```
