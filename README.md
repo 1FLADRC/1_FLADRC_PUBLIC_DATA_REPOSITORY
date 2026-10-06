@@ -1,4 +1,9 @@
 # 1_FLADRC_PUBLIC_DATA_REPOSITORY
+https://doi.org/10.5281/zenodo.23195722
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13121149.svg)](https://doi.org/10.5281/zenodo.23195722)
+
 Home for the 1FLADRC Data Repository
 
 This research was supported by the National Institute on Aging (NIA) through the 1Florida Alzheimer’s Disease Research Center (P30AG066506).
